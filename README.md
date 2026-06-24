@@ -41,13 +41,9 @@ The goal is to explore whether extreme wealth is primarily earned or inherited�
 
 ## 🎯 Response Variables
 
-* **Linear Regression:**
+* **Linear Regression:** Predicted net worth of a billionaire based on age and other factors
 
-  * Predicted net worth of a billionaire based on age and other factors
-
-* **Logistic Regression:**
-
-  * Log-odds of a billionaire’s wealth being inherited
+* **Logistic Regression:** Log-odds of a billionaire’s wealth being inherited
 
 ---
 
